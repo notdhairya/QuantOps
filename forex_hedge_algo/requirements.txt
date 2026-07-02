@@ -1,0 +1,6 @@
+selenium>=4.40
+undetected-chromedriver>=3.5
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.0
+MetaTrader5>=5.0.45
